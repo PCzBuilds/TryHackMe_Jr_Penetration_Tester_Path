@@ -27,12 +27,7 @@ All testing happens in isolated TryHackMe lab environments or my own self-hosted
 - Pentesting Methodologies and Reporting
 - Jr Pentester Challenges
 
-## Structure
 
-```
-writeups/     process narratives per room, public
-notes/        personal reference notes, not published
-exercises/    original lab drills built off room topics
 labs/         isolated lab build configs
 ```
 
