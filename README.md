@@ -1,4 +1,4 @@
-# TryHackMe Writeups and Lab Work
+# Jr. Penetration Tester Path / TryHackMe
 
 Notes, writeups and original lab exercises from my work through TryHackMe's Jr Penetration Tester path. Everything here is my own documentation, not a copy of room content.
 
