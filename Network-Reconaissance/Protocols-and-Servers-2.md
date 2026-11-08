@@ -1,5 +1,4 @@
-source: TryHackMe Protocols and Servers 2, structure only; content from RFCs, man pages, vendor docs
-/ status: reference
+source: TryHackMe Protocols and Servers 2, structure only; content from RFCs, man pages, vendor docs. Reference material.
 ---
 
 # Securing Cleartext Protocols: Sniffing, MITM, Password Attacks, and Fixes
